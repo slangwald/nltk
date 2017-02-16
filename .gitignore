@@ -17,6 +17,12 @@ web/_build
 .coverage
 nltk/test/*.html
 nltk/test/tweets*
+nosetests.xml
+nosetests_scrubbed.xml
+pylintoutput
+model.crf.tagger
+coverage.xml
+brown.embedding
 
 # editor temporary files
 *.*.sw[op]
